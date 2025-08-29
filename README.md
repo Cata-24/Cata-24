@@ -3,7 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/Cata-24">
-    <img height="180" src="https://github-readme-stats-omega-ten-18.vercel.app/api?username=Cata-24&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues,stars,prs&hide_rank=true"/>
+    <img height="200" src="https://github-readme-stats-omega-ten-18.vercel.app/api?username=Cata-24&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues,stars,prs&hide_rank=true"/>
+    &nbsp;&nbsp;&nbsp;
     <img height="180" src="https://github-readme-stats-omega-ten-18.vercel.app/api/top-langs/?username=Cata-24&layout=compact&langs_count=16&theme=radical&cache_seconds=0"/>
   </a> 
 </div>
