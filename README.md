@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/Cata-24">
-    <img height="180" width="250" src="https://github-readme-stats-omega-ten-18.vercel.app/api?username=Cata-24&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues,stars,prs&hide_rank=true"/>
+    <img height="250" width="303" src="https://github-readme-stats-omega-ten-18.vercel.app/api?username=Cata-24&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true"/>
     <img height="200" width="250" src="https://github-readme-stats-omega-ten-18.vercel.app/api/top-langs/?username=Cata-24&layout=compact&langs_count=10&theme=radical&cache_seconds=0"/>
   </a> 
 </div>
@@ -27,6 +27,14 @@
 <br>
 
 ## <p align="center">Projects</p>
+
+| Project | Screenshot | Course | Description |
+|---------|------------|--------|-------------|
+| [Project1](https://github.com/YourUsername/Project1) | <img src="https://raw.githubusercontent.com/YourUsername/Project1/main/screenshot.png" width="150"/> | Short description of Project1 |
+| [Project2](https://github.com/YourUsername/Project2) | <img src="https://raw.githubusercontent.com/YourUsername/Project2/main/screenshot.png" width="150"/> | Short description of Project2 |
+
+
+<br>
 
 <p align="center">
   <picture>
