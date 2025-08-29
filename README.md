@@ -4,8 +4,7 @@
 <div align="center">
   <a href="https://github.com/Cata-24">
     <img height="180" width="250" src="https://github-readme-stats-omega-ten-18.vercel.app/api?username=Cata-24&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues,stars,prs&hide_rank=true"/>
-    &nbsp;&nbsp;&nbsp;
-    <img height="180" width="300" src="https://github-readme-stats-omega-ten-18.vercel.app/api/top-langs/?username=Cata-24&layout=compact&langs_count=16&theme=radical&cache_seconds=0"/>
+    <img height="200" width="250" src="https://github-readme-stats-omega-ten-18.vercel.app/api/top-langs/?username=Cata-24&layout=compact&langs_count=16&theme=radical&cache_seconds=0"/>
   </a> 
 </div>
 
@@ -24,7 +23,6 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 </div>
-
 
 <br>
 
