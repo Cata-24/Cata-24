@@ -28,6 +28,7 @@
 
 ## <p align="center">Projects</p>
 
+![Snake animation](https://github.com/Cata-24/Cata-24/blob/output/github-contribution-grid-snake.svg)
 
 
 
