@@ -31,7 +31,7 @@
 | Project | Screenshot | Course | Description |
 |---------|------------|--------|-------------|
 | [Project1](https://github.com/YourUsername/Project1) | <img src="https://raw.githubusercontent.com/YourUsername/Project1/main/screenshot.png" width="150"/> | Short description of Project1 |
-| [Project2](https://github.com/YourUsername/Project2) | <img src="https://raw.githubusercontent.com/YourUsername/Project2/main/screenshot.png" width="150"/> | Short description of Project2 |
+| [Project2](https://github.com/YourUsername/Project2) | <img src="https://raw.githubusercontent.com/Cata-24/ldts-proj/main/docs/Images/screenshots/level3.png" width="150"/> | <p align="center">LDTS</p> | Short description of Project2 |
 
 
 <br>
