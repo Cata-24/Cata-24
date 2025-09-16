@@ -30,7 +30,7 @@
 
 | Project | Screenshot | Course | Description |
 |---------|------------|--------|-------------|
-| [Project1](https://github.com/YourUsername/Project1) | <img src="https://raw.githubusercontent.com/YourUsername/Project1/main/screenshot.png" width="150"/> | Short description of Project1 |
+| [Image Processor](https://github.com/Cata-24/prog-proj) | <img src="https://raw.githubusercontent.com/Cata-24/prog-proj/expected/batman.png" width="150"/> | <p align="center">Prog</p> | <p align="center">This project is an image processor for SVG files. It reads geometric elements from an SVG, stores them in a vector, applies the required transformations, and prepares them for rendering.</p> |
 | [Project2](https://github.com/YourUsername/Project2) | <img src="https://raw.githubusercontent.com/Cata-24/ldts-proj/main/docs/Images/screenshots/level3.png" width="150"/> | <p align="center">LDTS</p> | Short description of Project2 |
 
 
