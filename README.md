@@ -1,12 +1,12 @@
 ## <div style="display: inline_block" align="center"> Hi, I'm Catarina Bastos <img height="30" width="40" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Cata-24">
     <img height="250" width="303" src="https://github-readme-stats-omega-ten-18.vercel.app/api?username=Cata-24&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true"/>
     <img height="200" width="250" src="https://github-readme-stats-omega-ten-18.vercel.app/api/top-langs/?username=Cata-24&layout=compact&langs_count=10&theme=radical&cache_seconds=0"/>
   </a> 
-</div>
+</div> -->
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Java Script" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
