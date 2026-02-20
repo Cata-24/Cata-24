@@ -22,6 +22,9 @@
   <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/>
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+  <img align="center" alt="Haskell" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg"/>
+  <img align="center" alt="Prolog" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg"/>
+  <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
 </div>
 
 <br>
